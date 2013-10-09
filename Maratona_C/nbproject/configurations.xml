@@ -13,6 +13,7 @@
                    displayName="Source Files"
                    projectFiles="true">
       <itemPath>OBI2000/BIT.c</itemPath>
+      <itemPath>OBI2001/METEORO.c</itemPath>
       <itemPath>main.c</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
@@ -40,6 +41,8 @@
       </compileType>
       <item path="OBI2000/BIT.c" ex="false" tool="0" flavor2="0">
       </item>
+      <item path="OBI2001/METEORO.c" ex="false" tool="0" flavor2="0">
+      </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>
     </conf>
@@ -65,6 +68,8 @@
         </asmTool>
       </compileType>
       <item path="OBI2000/BIT.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="OBI2001/METEORO.c" ex="false" tool="0" flavor2="0">
       </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>

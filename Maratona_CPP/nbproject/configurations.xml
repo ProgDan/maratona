@@ -14,6 +14,7 @@
                    projectFiles="true">
       <itemPath>OBI2000/BIT.cpp</itemPath>
       <itemPath>OBI2000/MACACO.cpp</itemPath>
+      <itemPath>OBI2001/METEORO.cpp</itemPath>
       <itemPath>OBI2000/QUERM.cpp</itemPath>
       <itemPath>OBI2000/REDOTICA.cpp</itemPath>
       <itemPath>OBI2000/SALDO.cpp</itemPath>
@@ -52,6 +53,8 @@
       </item>
       <item path="OBI2000/SALDO.cpp" ex="false" tool="1" flavor2="0">
       </item>
+      <item path="OBI2001/METEORO.cpp" ex="false" tool="1" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
@@ -85,6 +88,8 @@
       <item path="OBI2000/REDOTICA.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="OBI2000/SALDO.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="OBI2001/METEORO.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
