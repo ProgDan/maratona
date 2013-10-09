@@ -8,6 +8,7 @@
  */
 
 #include <stdio.h>
+#include <stdlib.h>
 
 #define TRUE 1
 
@@ -32,5 +33,5 @@ int main(int argc, char** argv) {
 		}
 		printf("Teste %d\n%d\n\n", n++, total);
 	}
-    return 0;
+    return (EXIT_SUCCESS);
 }
