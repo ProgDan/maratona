@@ -2,7 +2,7 @@
  * File:   BIT.cpp
  * Author: progdan
  *
- * Solucao para o problema "Bit" da OBI2000
+ * Solução para o problema "Bit" da OBI2000
  * 
  * Created on October 9, 2013, 9:54 AM
  */

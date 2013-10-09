@@ -2,7 +2,7 @@
  * File:   MACACO.cpp
  * Author: progdan
  * 
- * Solucao para o problema "Macaco" da OBI2000
+ * Solução para o problema "Macaco" da OBI2000
  *
  * Created on October 9, 2013, 10:28 AM
  */

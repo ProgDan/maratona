@@ -2,7 +2,7 @@
  * File:   SALDO.cpp
  * Author: progdan
  * 
- * Solucao para o problema "Saldo de Gols" da OBI2000
+ * Solução para o problema "Saldo de Gols" da OBI2000
  *
  * Created on October 9, 2013, 10:57 AM
  */

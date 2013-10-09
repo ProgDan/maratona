@@ -2,7 +2,7 @@
  * File:   QUERM.cpp
  * Author: progdan
  * 
- * Solucao para o problema "Quermesse" da OBI2000
+ * Solução para o problema "Quermesse" da OBI2000
  *
  * Created on October 9, 2013, 10:40 AM
  */
