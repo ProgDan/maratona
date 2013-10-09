@@ -12,6 +12,11 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
+      <itemPath>OBI2000/BIT.cpp</itemPath>
+      <itemPath>OBI2000/MACACO.cpp</itemPath>
+      <itemPath>OBI2000/QUERM.cpp</itemPath>
+      <itemPath>OBI2000/REDOTICA.cpp</itemPath>
+      <itemPath>OBI2000/SALDO.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
@@ -37,6 +42,16 @@
       </toolsSet>
       <compileType>
       </compileType>
+      <item path="OBI2000/BIT.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="OBI2000/MACACO.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="OBI2000/QUERM.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="OBI2000/REDOTICA.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="OBI2000/SALDO.cpp" ex="false" tool="1" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
@@ -61,6 +76,16 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="OBI2000/BIT.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="OBI2000/MACACO.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="OBI2000/QUERM.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="OBI2000/REDOTICA.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="OBI2000/SALDO.cpp" ex="false" tool="1" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
