@@ -1,10 +1,9 @@
-/*
+'''
 +--------------------+
 | Daniel Arndt Alves |
-|        IFTM        |
 |      URI 1008      |
 +--------------------+
-*/
+'''
 NUM=int(input())
 HORA=int(input())
 SAL=float(input())

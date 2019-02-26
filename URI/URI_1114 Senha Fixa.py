@@ -1,10 +1,9 @@
-/*
+'''
 +--------------------+
 | Daniel Arndt Alves |
-|        IFTM        |
 |      URI 1114      |
 +--------------------+
-*/
+'''
 SENHA=0
 while SENHA!="2002":
     SENHA=input()

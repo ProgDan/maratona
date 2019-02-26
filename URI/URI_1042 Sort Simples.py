@@ -1,10 +1,9 @@
-/*
+'''
 +--------------------+
 | Daniel Arndt Alves |
-|        IFTM        |
 |      URI 1042      |
 +--------------------+
-*/
+'''
 # -*- coding: utf-8 -*-
 
 A,B,C = map (int,input().split())

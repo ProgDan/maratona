@@ -1,10 +1,9 @@
-/*
+'''
 +--------------------+
 | Daniel Arndt Alves |
-|        IFTM        |
 |      URI 1028      |
 +--------------------+
-*/
+'''
 # -*- coding: utf-8 -*-
 N=int(input())
 while N>0:

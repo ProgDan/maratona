@@ -1,10 +1,9 @@
-/*
+'''
 +--------------------+
 | Daniel Arndt Alves |
-|        IFTM        |
 |      URI 1214      |
 +--------------------+
-*/
+'''
 # -*- coding: utf-8 -*-
 C=int(input())
 calculos={}

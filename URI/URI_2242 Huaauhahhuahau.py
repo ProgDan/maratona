@@ -1,10 +1,9 @@
-/*
+'''
 +--------------------+
 | Daniel Arndt Alves |
-|        IFTM        |
 |      URI 2242      |
 +--------------------+
-*/
+'''
 # -*- coding: utf-8 -*-
 RISADA = (input ())
 lol = []

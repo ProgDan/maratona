@@ -1,10 +1,9 @@
-/*
+'''
 +--------------------+
 | Daniel Arndt Alves |
-|        IFTM        |
 |      URI 1021      |
 +--------------------+
-*/
+'''
 # -*- coding: utf-8 -*-
 MONEYA,MONEYB = map (int, input().split(".") )
 

@@ -1,10 +1,9 @@
-/*
+'''
 +--------------------+
 | Daniel Arndt Alves |
-|        IFTM        |
 |      URI 2161      |
 +--------------------+
-*/
+'''
 # -*- coding: utf-8 -*-
 N=int(input())
 cont=N

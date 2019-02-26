@@ -1,7 +1,6 @@
 /*
 +--------------------+
 | Daniel Arndt Alves |
-|        IFTM        |
 |      Maratona      |
 |       Enigma       |
 +--------------------+

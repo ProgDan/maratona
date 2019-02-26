@@ -1,10 +1,9 @@
-/*
+'''
 +--------------------+
 | Daniel Arndt Alves |
-|        IFTM        |
 |      URI 1049      |
 +--------------------+
-*/
+'''
 AN1 = input()
 AN2 = input()
 AN3 = input()
