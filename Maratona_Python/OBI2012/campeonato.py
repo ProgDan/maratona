@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #coding: utf-8
 
-CV, CE, CS, FV, FE, FS = raw_input().split()
+CV, CE, CS, FV, FE, FS = map(int,input().split())
 
 CP = 3 * CV + CE
 FP = 3 * FV + FE
@@ -14,3 +14,4 @@ else:
     res = "="
 
 print(res)
+exit(0)
