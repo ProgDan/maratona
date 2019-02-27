@@ -1,0 +1,5 @@
+input()
+C_set = set(map(int, input().split()))
+M_set = set(map(int, input().split()))
+C_set.difference_update(M_set)
+print(len(C_set))
