@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class pomekon {
+public class Main {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

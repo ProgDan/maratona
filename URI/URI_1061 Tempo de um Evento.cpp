@@ -5,6 +5,9 @@
 +--------------------+
 */
 #include <stdio.h>
+#include <iostream>
+#include <string>
+using namespace std;
 
 int main(int argc, char *argv[])
 {
@@ -15,7 +18,7 @@ int main(int argc, char *argv[])
 		int Dfim, Hfim, Mfim, Sini;
 		int Tini, Tfim, duracaoT;
 		int Dtotal, Htotal, Mtotal, Stotal;
-		String aux;
+		string aux;
 		
 		// entrada inicio:
 		aux = sc.next();
